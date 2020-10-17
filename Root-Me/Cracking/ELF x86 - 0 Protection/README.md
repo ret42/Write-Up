@@ -1,6 +1,6 @@
-#ELF x86 - 0 Protection
+# ELF x86 - 0 Protection
 
-###Prerequires:
+### Prerequires:
 
 - IDA
 
