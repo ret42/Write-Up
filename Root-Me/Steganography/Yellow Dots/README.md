@@ -36,4 +36,16 @@
 
 <img src="https://cdn.discordapp.com/attachments/698984879823519827/770313044181254174/Machine_Identification_Code_von_Druckern.png">
 
-Next soon.
+- We're gonna overlay the first picture with this one (Feel free to to redraw on it with more brighter color)
+
+<img src="https://cdn.discordapp.com/attachments/768928242467340328/771103802438582297/unknown.png">
+
+- Now we juste have to add, which will give us this::
+
+<img src="https://cdn.discordapp.com/attachments/768928242467340328/771107949724041276/unknown.png">
+
+- Now we have to use the original board for help, to put the numbers in order
+
+<img src="https://cdn.discordapp.com/attachments/768928242467340328/771108547970203688/unknown.png">
+
+- Don't forget, the answer is in this form " hh:mm dd/MM/yyyy SSSSSSSS " (If you see there missing some numbers just be logic ^^)
