@@ -14,4 +14,4 @@
 
 - Hit "Enter" and you will see the flag:
 
-<img src="https://cdn.discordapp.com/attachments/698984879823519827/768900062751096852/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/698984879823519827/774995299215212593/unknown.png">
