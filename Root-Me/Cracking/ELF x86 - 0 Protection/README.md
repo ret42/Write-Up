@@ -8,4 +8,4 @@
 
 We don't have to search far, when we open "ch1.bin" in IDA we can directly see the flag:
 
-<img src="hhttps://cdn.discordapp.com/attachments/698984879823519827/774993832122515487/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/698984879823519827/774993832122515487/unknown.png">
