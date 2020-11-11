@@ -40,6 +40,6 @@
 
 - You will get the Secret Key so copy the key and click again to continue
 
-- Now paste the Secret Key and click 2 times to continue and you will get the flag:
+- Now paste the Secret Key and click 2x to continue and you will get the flag:
 
 <img src="https://cdn.discordapp.com/attachments/698984879823519827/776089025915387904/unknown.png">
