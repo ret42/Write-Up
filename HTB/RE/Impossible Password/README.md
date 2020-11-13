@@ -14,6 +14,4 @@
 
 - Now go open IDA:
 
-<img src="https://cdn.discordapp.com/attachments/698984879823519827/776066127994421268/unknown.png">
-
 soon
