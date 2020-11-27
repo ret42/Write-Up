@@ -8,7 +8,7 @@
 
 - For the first step let's type " binwalk for3nsics.png ".
 
-<img src="https://cdn.discordapp.com/attachments/698984879823519827/776063927741448252/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/698984879823519827/781976755912048650/unknown.png">
 
 - We can see it's zipped so type " unzip for3nsics.png ".
 
