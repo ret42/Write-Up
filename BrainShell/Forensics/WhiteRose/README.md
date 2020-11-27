@@ -18,6 +18,6 @@
 
 <img src="https://cdn.discordapp.com/attachments/698984879823519827/781977208339955743/unknown.png">
 
-- Unzip it again you will get the payload open it with random text editor and you will get the flag:
+- Unzip it again you will get the payload, open it with random text editor and you will get the flag:
 
 <img src="https://cdn.discordapp.com/attachments/698984879823519827/781977497906315304/unknown.png">
