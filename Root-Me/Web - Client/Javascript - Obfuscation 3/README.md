@@ -1,4 +1,4 @@
-# Javascript - Authentication 3
+# Javascript - Obfuscation 3
 
 ### Prerequires:
 
