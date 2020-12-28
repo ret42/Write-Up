@@ -1,4 +1,4 @@
-# Android app
+# Android app - 20PTS
 
 ### Prerequires:
 
