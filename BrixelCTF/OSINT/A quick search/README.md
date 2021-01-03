@@ -1,4 +1,4 @@
-# A quick search
+# A quick search - 5pts
 
 ### Prerequires:
 
