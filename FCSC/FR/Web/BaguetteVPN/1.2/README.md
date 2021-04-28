@@ -1,6 +1,6 @@
-# [Prog] Snake - 20pts
+# [Web] BaguetteVPN 1/2 - 25pts
 
-### Prerequires:
+### Prérequis:
 
 - dirsearch
 
