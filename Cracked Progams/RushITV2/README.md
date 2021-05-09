@@ -1,4 +1,4 @@
-# Rush IT V2
+# Rush IT V2 - (Crack in SRC folder)
 
 FR: C'est un programme qui a pour but d'optimiser son pc, petit hic, il n'optimise presque en rien le pc, et chez certaines personnes il le rend plus buggé, et le développeur le vend à un prix trop élevé pour ce que le programme permet, sans oublier que il est comblé de bug (Par exemple il ne clear pas le prefetch alors qu'il y a l'option etc...)
 Le write-up sera en anglais.
