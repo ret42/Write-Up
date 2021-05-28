@@ -8,7 +8,7 @@
 
 - Let's binwalk the image named "paul.jpg" :
 
-<img src="hhttps://cdn.discordapp.com/attachments/804801385240723519/847903569905975306/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/804801385240723519/847903569905975306/unknown.png">
 
 - Go into the extracted file, and binwalk again :
 
