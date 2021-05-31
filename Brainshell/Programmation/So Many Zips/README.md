@@ -6,7 +6,7 @@
 
 -----------------
 
-- I used the script of my friend, ty to him @g3zb0yy
+- I used the script of my friend, ty to him <a href="https://github.com/g3zb0yy" rel="nofollow">@g3zb0yy</a>
 
 ```py
 import os
