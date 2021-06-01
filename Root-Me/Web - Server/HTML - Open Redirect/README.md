@@ -14,4 +14,4 @@
 
 - But we have to hash the all link as MD5 `https://facebook.com:returnUrl=http://google.fr` -> 3494f10644e5315c4ad66ba9cc98a00e
 
-- And here is the flag: `http://challenge01.root-me.org/web-serveur/ch52/?url=https://facebook.com:returnUrl=http://google.fr&h=36EkRHLyviZMtSjodB4gByQJwyYxPmBE1x`
+- And here is the flag: `http://challenge01.root-me.org/web-serveur/ch52/?url=https://facebook.com:returnUrl=http://google.fr&h=3494f10644e5315c4ad66ba9cc98a00e`
