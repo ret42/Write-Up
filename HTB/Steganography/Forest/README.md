@@ -20,4 +20,4 @@
 
 - And here is the flag: 
 
-- <img src="https://cdn.discordapp.com/attachments/849954742892757045/857297146431537152/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/849954742892757045/857297146431537152/unknown.png">
