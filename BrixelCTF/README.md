@@ -1,7 +1,7 @@
 # Writes-Ups
 <p align="center">
   <b>Cool and easy CTF</b><br>
-  <b>100%</b>
+  <b>CTF Done at : 100%</b><br>
   <b>Team : s0mech4rm</b><br>
   <b>Info : The Write-Ups will probably never be finish because I have no motivation to end it</b><br>
   <b>Special thanks to <a href="https://github.com/alls4fe" rel="nofollow">@alls4fe</a> for doing a lot in the Web category</b><br>
