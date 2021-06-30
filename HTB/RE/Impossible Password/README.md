@@ -2,16 +2,8 @@
 
 ### Prerequires:
 
-- <a href="https://www.hex-rays.com/products/ida/support/download_freeware/" rel="nofollow">IDA</a>
+- <a href="https://github.com/MathisHammel/stringcheese" rel="nofollow">StringCheese (Big thanks to the creator for this awesome tool)</a>
 
 -----------------
 
-- For the first step let's check the strings with the command " strings impossible_password.bin "
-
-- We can easily see the the string named " SuperSeKretKey ".
-
-<img src="https://cdn.discordapp.com/attachments/698984879823519827/776831184860217374/unknown.png">
-
-- Now go open IDA:
-
-soon
+- Type ``stringcheese HTB{ --file impossible_password.bin`` and you will have the flag.
