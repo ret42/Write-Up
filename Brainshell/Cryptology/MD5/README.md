@@ -2,7 +2,7 @@
 
 ### Prerequires:
 
-- <a href="https://md5decrypt.net/#answer" rel="nofollow">MD5Decrypt</a>
+- <a href="https://md5decrypt.net/" rel="nofollow">MD5Decrypt</a>
 
 -----------------
 
