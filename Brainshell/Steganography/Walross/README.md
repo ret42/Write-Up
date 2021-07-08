@@ -1,4 +1,4 @@
-# Geolocalization - 5 Pts
+# Walross - 15 Pts
 
 ### Prerequires:
 
