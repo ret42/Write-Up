@@ -6,4 +6,4 @@
 
 -----------------
 
-- Put the image into the website and allign the red line on the number and you will have the flag.
+- Put the image into the website and align the red line on the number and you will have the flag.
