@@ -4,5 +4,5 @@
   <b>Star the repo !</b><br>
   <b>Lots of WU are not finished I don't have lot of motivation for end it</b><br>
   <br><br>
-  <img src="https://cdn.discordapp.com/attachments/858117820817473548/866110594964914206/gif-for-root-me.gif">
+  <img src="https://imgur.com/bnvXwey">
 </p>
