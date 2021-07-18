@@ -1,4 +1,4 @@
-# Write-Up
+# <center>Write-Up</center>
 <p align="center">
   <b>Root-ME, HTB, Brainshell and more</b><br>
   <b>Star the repo !</b><br>
