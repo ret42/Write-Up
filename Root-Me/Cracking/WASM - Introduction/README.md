@@ -19,3 +19,5 @@
 - If we scroll up we can see the hash `936fff76f378ace4cf83a4360cafcc20`
 
 - Now we have to past the hash into [MD5Decrypt](https://md5decrypt.net/) and past the result into the challenge and we get the flag
+
+- Here is a [video](https://www.youtube.com/watch?v=VlOT2ZlwP_A&lc=UgxBoxXG5P3kKNTRcAd4AaABAg) for people who want a real video on how to proceed
