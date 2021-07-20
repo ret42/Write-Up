@@ -1,4 +1,4 @@
-# vmcrack wu leak, sry stackhound. <3 (I flagged myself but it's so fucking long to re-write everything, also I blur the flag, but you have the all steps to reproduce it, so here is the wu of the owner:)
+# vmcrack wu leak by ret, sry stackhound. <3 (I flagged myself but it's so fucking long to re-write everything, also I blur the flag, but you have the all steps to reproduce it, so here is the wu of the owner:)
 
 -----------------
 
