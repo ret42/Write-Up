@@ -1,3 +1,3 @@
-```python
+
 print("Hello, World!")
-```
+
