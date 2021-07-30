@@ -4,5 +4,5 @@
   <b>Star the repo !</b><br>
   <b>Lots of WU are not finished I don't have lot of motivation for end it</b><br>
   <br><br>
-  <img src="https://user-images.githubusercontent.com/69907830/126052717-a07f16da-ac53-4b47-b51b-e13a9b4a84cb.gif">
+  <img src="https://cdn.discordapp.com/attachments/870666809513226290/870666899523002478/2021-07-29_23_09_59sydney_69100_98820950_141775677924005_2895116169048922210_n.mp4_-_VLC_media_play.png">
 </p>
