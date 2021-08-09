@@ -6,6 +6,6 @@
 
 -----------------
 
-- I download wasm file with editing the url (change the .htm by wasm)
+- I download the wasm file with editing the url (change the .htm by wasm)
 
-- After this I did a stringcheese `FLAG --file challenge1.wasm`, and the flag appear
+- After this I did a `stringcheese FLAG --file challenge1.wasm`, and the flag appear
